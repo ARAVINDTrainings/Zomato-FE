@@ -1,2 +1,2 @@
-This is a reg page
+This is a userregistration page
 for zomato
